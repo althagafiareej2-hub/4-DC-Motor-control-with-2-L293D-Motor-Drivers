@@ -102,3 +102,6 @@ void stopMotors() {
   digitalWrite(in5, LOW); digitalWrite(in6, LOW);
   digitalWrite(in7, LOW); digitalWrite(in8, LOW);
 }
+```
+ **Tinkercad Simulation Link:**
+[Click here to view and simulate the project in Tinkercad](https://www.tinkercad.com/things/5NnfC2BVMBH-4-dc-motor-control-with-2-l293d-motor-drivers/editel?returnTo=%2Fthings%2F5NnfC2BVMBH-4-dc-motor-control-with-2-l293d-motor-drivers&sharecode=eT_Xd0RYM8JJINVgLJ3mGkN_tA3FSxMiVy78Vb5zOTA)
